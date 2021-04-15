@@ -4,8 +4,6 @@ description: Textos mais elaborados
 
 # Posts
 
-
-
 {% page-ref page="sorte-ou-azar.md" %}
 
 {% page-ref page="mudanca.-porque-nao-gostamos-de-mudar.md" %}

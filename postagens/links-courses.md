@@ -38,6 +38,7 @@ link -&gt; [https://lucioeiras.medium.com/o-guia-completo-para-fazer-dual-boot-e
 
 ## Links
 
+* Livro de estatística para Análise de Dados - [https://www.ime.usp.br/~jmsinger/MAE5755/cdados2019ago06.pdf](https://www.ime.usp.br/~jmsinger/MAE5755/cdados2019ago06.pdf)
 * data science for everyone - [https://campus.datacamp.com/courses/data-science-for-everyone/](https://campus.datacamp.com/courses/data-science-for-everyone/)
 * **Data Science Cursos Edx -** [**Site da Edx**](https://www.edx.org/data-science-2020?utm_source=sailthru&utm_medium=email&utm_campaign=newsletter_course_tuesday_20201117) **\(começar algum curso destes\)**
 * Link para Nanodegrees e masterdegrees [ Nano e MasterDegrees](https://github.com/vitalysim/udacity-nanodegrees) on github.
