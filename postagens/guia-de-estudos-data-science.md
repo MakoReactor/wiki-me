@@ -9,11 +9,10 @@ description: Inicio
 Ordem das coias para estudar.
 
 * Exploratory Data Analysis
-* Linear Regression 
+* Linear Regression&#x20;
 * Web Scraping
 * Business Fundamentals for Data Practitioners
 * Machine Learning Classification
 * NLP & Unsupervised Learnig
 * Deep Learning Funtamentals
 * Introduction do Data Enginnering
-

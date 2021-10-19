@@ -7,11 +7,15 @@ description: >-
 
 # Textos inacabados
 
-{% page-ref page="../posts-1/sorte-ou-azar.md" %}
+{% content-ref url="../posts-1/sorte-ou-azar.md" %}
+[sorte-ou-azar.md](../posts-1/sorte-ou-azar.md)
+{% endcontent-ref %}
 
-{% page-ref page="sera-que-estamos-aprendendo-estudando-o-necessario-para-o-futuro-reflexao..md" %}
+{% content-ref url="sera-que-estamos-aprendendo-estudando-o-necessario-para-o-futuro-reflexao..md" %}
+[sera-que-estamos-aprendendo-estudando-o-necessario-para-o-futuro-reflexao..md](sera-que-estamos-aprendendo-estudando-o-necessario-para-o-futuro-reflexao..md)
+{% endcontent-ref %}
 
-{% page-ref page="ninguem-gosta-do-equilibrio..md" %}
-
-
+{% content-ref url="ninguem-gosta-do-equilibrio..md" %}
+[ninguem-gosta-do-equilibrio..md](ninguem-gosta-do-equilibrio..md)
+{% endcontent-ref %}
 

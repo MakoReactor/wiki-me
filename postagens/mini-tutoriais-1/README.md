@@ -4,17 +4,27 @@ description: Tutoriais rápidos e práticos.
 
 # Mini Tutoriais
 
-{% page-ref page="usando-o-comando-grep-para-pesquisar-por-arquivos.md" %}
+{% content-ref url="usando-o-comando-grep-para-pesquisar-por-arquivos.md" %}
+[usando-o-comando-grep-para-pesquisar-por-arquivos.md](usando-o-comando-grep-para-pesquisar-por-arquivos.md)
+{% endcontent-ref %}
 
-{% page-ref page="corrigindo-a-hora-do-linux-windows-quando-estao-em-dual-boot..md" %}
+{% content-ref url="corrigindo-a-hora-do-linux-windows-quando-estao-em-dual-boot..md" %}
+[corrigindo-a-hora-do-linux-windows-quando-estao-em-dual-boot..md](corrigindo-a-hora-do-linux-windows-quando-estao-em-dual-boot..md)
+{% endcontent-ref %}
 
-{% page-ref page="ativar-administrador-windows-10.md" %}
+{% content-ref url="ativar-administrador-windows-10.md" %}
+[ativar-administrador-windows-10.md](ativar-administrador-windows-10.md)
+{% endcontent-ref %}
 
-{% page-ref page="wget.md" %}
+{% content-ref url="wget.md" %}
+[wget.md](wget.md)
+{% endcontent-ref %}
 
-{% page-ref page="youtube-dl-como-usar..md" %}
+{% content-ref url="youtube-dl-como-usar..md" %}
+[youtube-dl-como-usar..md](youtube-dl-como-usar..md)
+{% endcontent-ref %}
 
-{% page-ref page="mini-tutoriais.md" %}
-
-
+{% content-ref url="mini-tutoriais.md" %}
+[mini-tutoriais.md](mini-tutoriais.md)
+{% endcontent-ref %}
 

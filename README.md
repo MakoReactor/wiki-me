@@ -7,11 +7,9 @@ description: >-
 
 # Sobre esta página.
 
-Aqui neste espaço vou tentar na medida do possível escrever \(documentar\) coisas úteis do dia a dia.
+Aqui neste espaço vou tentar na medida do possível escrever (documentar) coisas úteis do dia a dia.
 
 Este espaço estará sempre em construção, portanto alguns textos tutoriais e afins podem estar inacabados, mas tudo bem, em algum momento vou retomar ou não o assunto.
-
-
 
 
 

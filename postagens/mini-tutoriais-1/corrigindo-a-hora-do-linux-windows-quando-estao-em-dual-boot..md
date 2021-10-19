@@ -8,13 +8,11 @@ As vezes quando usamos algum Linux e Windows em dua boot, percebemos que os mesm
 
 Para corrigir vamos usar esse comando no Linux.
 
-```text
+```
 $> timedatectl set-local-rtc 1
 ```
 
-Tudo isso ocorre porque o windows acha que o horário do hardware \(relógio da bios\) é o horário local e o linux por sua vez entende o mesmo horário como sendo o UTC.
+Tudo isso ocorre porque o windows acha que o horário do hardware (relógio da bios) é o horário local e o linux por sua vez entende o mesmo horário como sendo o UTC.
 
-O comando feito acima faz o linux reconhecer o horário do reloógio do hardware como horário local, assim ele não faz o cálculo UTC.  
-  
-
-
+O comando feito acima faz o linux reconhecer o horário do reloógio do hardware como horário local, assim ele não faz o cálculo UTC.\
+\

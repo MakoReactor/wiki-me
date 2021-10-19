@@ -14,9 +14,9 @@ description: >-
 * Flask
 * Linux
 * Shell Script
-* Inglês \(língua estrangeira\)
+* Inglês (língua estrangeira)
 * Veganismo
-* Política \(na hora certa\).
+* Política (na hora certa).
 * Data Science
 * Data Analisys
 
@@ -26,5 +26,4 @@ description: >-
 
 #### Outros lugares que escrevo:
 
-* [https://dougscafe.netlify.app/](https://dougscafe.netlify.app/) 
-
+* [https://dougscafe.netlify.app/](https://dougscafe.netlify.app)&#x20;

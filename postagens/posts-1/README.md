@@ -4,11 +4,18 @@ description: Textos mais elaborados
 
 # Posts
 
-{% page-ref page="sorte-ou-azar.md" %}
+{% content-ref url="sorte-ou-azar.md" %}
+[sorte-ou-azar.md](sorte-ou-azar.md)
+{% endcontent-ref %}
 
-{% page-ref page="mudanca.-porque-nao-gostamos-de-mudar.md" %}
+{% content-ref url="mudanca.-porque-nao-gostamos-de-mudar.md" %}
+[mudanca.-porque-nao-gostamos-de-mudar.md](mudanca.-porque-nao-gostamos-de-mudar.md)
+{% endcontent-ref %}
 
-{% page-ref page="vacina-para-covid-19-pfizer.-por-favor-nao-fique-tao-contente-assim..md" %}
+{% content-ref url="vacina-para-covid-19-pfizer.-por-favor-nao-fique-tao-contente-assim..md" %}
+[vacina-para-covid-19-pfizer.-por-favor-nao-fique-tao-contente-assim..md](vacina-para-covid-19-pfizer.-por-favor-nao-fique-tao-contente-assim..md)
+{% endcontent-ref %}
 
-{% page-ref page="invasao-aos-computadores-do-ministerio-da-saude-e-governo-do-df.md" %}
-
+{% content-ref url="invasao-aos-computadores-do-ministerio-da-saude-e-governo-do-df.md" %}
+[invasao-aos-computadores-do-ministerio-da-saude-e-governo-do-df.md](invasao-aos-computadores-do-ministerio-da-saude-e-governo-do-df.md)
+{% endcontent-ref %}
