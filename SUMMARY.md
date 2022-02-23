@@ -21,7 +21,6 @@
 * [Textos inacabados](postagens/textos-inacabados/README.md)
   * [Será que estamos aprendendo (estudando) o necessário para o futuro? Reflexão.](postagens/textos-inacabados/sera-que-estamos-aprendendo-estudando-o-necessario-para-o-futuro-reflexao..md)
   * [Ninguém gosta do equilíbrio.](postagens/textos-inacabados/ninguem-gosta-do-equilibrio..md)
-* [Guia de estudos Data Science](postagens/guia-de-estudos-data-science.md)
 
 ## About
 
