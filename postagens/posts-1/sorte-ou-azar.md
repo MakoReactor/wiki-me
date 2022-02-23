@@ -20,7 +20,7 @@ Outra forma de associar casualidade e sorte é você se preparar para alguma coi
 
 Pessoas atribuem sorte a jogos de estatística, loteria por exemplo. A mesma probabilidade de sair uma sequência numérica (1, 2 , 3, 4, 5, 6) é a de sair qualquer outra combinação, assim como uma macaco imortal digitando ao infinito em máquina de escrever eterna vai com certeza em algum momento ter escrito todas as obras literárias escritas no mundo, isso digitando teclas ao acaso total.
 
-Veja bem, perceba que ao seu redor neste exato momento estão **acontecendo **e **não acontecendo** milhares de coisas, mas pelo fato de algumas dessas coisas não afetarem a sua vida de alguma forma, não são notadas. Um exemplo disso é: O teto não caiu na sua cabeça agora ou se preferir troque o teto por meteóro. É sorte? Ou apenas é? Se o seu celular cai no chão e ao pegá-lo você percebe que a tela quebrou, vai praguejar e maldizer a má sorte, mas se ao não acontecer nada com ele, você pega e coloca no bolso e nem pensa nisso, ou talvez pense, vai saber.
+Veja bem, perceba que ao seu redor neste exato momento estão **acontecendo** e **não acontecendo** milhares de coisas, mas pelo fato de algumas dessas coisas não afetarem a sua vida de alguma forma, não são notadas. Um exemplo disso é: O teto não caiu na sua cabeça agora ou se preferir troque o teto por meteóro. É sorte? Ou apenas é? Se o seu celular cai no chão e ao pegá-lo você percebe que a tela quebrou, vai praguejar e maldizer a má sorte, mas se ao não acontecer nada com ele, você pega e coloca no bolso e nem pensa nisso, ou talvez pense, vai saber.
 
 "O universo não liga para o que você quer ou precisa, disse o meteoro a caminho da terra." Author, eu mesmo.
 

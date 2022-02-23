@@ -8,7 +8,7 @@ Equilíbrio, todos querem, mas será que gostamos? Será que cultuamos pessoas q
 
 Na minha opinião a vida parece com um tabuleiro de RPG onde o mestre não existe ou você mesmo vai mestrando de acordo com a sua vivência. E assim como nos RPGs você tem os seus pontos de atributos que conforme vai ganhando vai gastando em coisas que te interessam. O problema é que sempre vão existir coisas (atributos) aos quais você quer fazer ou ganhar, que são antagonistas a outras.&#x20;
 
-Um dos grandes dilemas da vida é se dedicar a alguma coisa e ser bom (muito bom) nela. Se você quiser ser o melhor, vai ter que dedicar muito tempo a essa habilidade e como sabemos o tempo é limitado, não importa o quão organizado  _workaholic _você é, o seu dia vai ter apenas 24 horas.
+Um dos grandes dilemas da vida é se dedicar a alguma coisa e ser bom (muito bom) nela. Se você quiser ser o melhor, vai ter que dedicar muito tempo a essa habilidade e como sabemos o tempo é limitado, não importa o quão organizado  _workaholic_ você é, o seu dia vai ter apenas 24 horas.
 
 E são nessas 24 horas que a vida acontece, seja aqui ou na China, não dá para comprar mais tempo. Cada minuto empenhado em alguma coisa é um minuto a menos em que passaremos fazendo outra.&#x20;
 

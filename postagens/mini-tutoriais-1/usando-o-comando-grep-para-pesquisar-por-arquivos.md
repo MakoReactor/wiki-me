@@ -28,7 +28,7 @@ Caso deseje, pode ser fazer uma pesquisa inversa, onde o grep vai retornar todas
 
 `grep -v "palavra ou frase" arquivo.txt`
 
-Agora misturando tudo. no comando abaixo o grep vai procurar recursivamente em todas as subpastas o trecho procurado, ignorando maiúsculas e minúsculas e retornar todas as linhas que **não **o contiverem.
+Agora misturando tudo. no comando abaixo o grep vai procurar recursivamente em todas as subpastas o trecho procurado, ignorando maiúsculas e minúsculas e retornar todas as linhas que **não** o contiverem.
 
 `grep -Riv "palavra ou frase" /var/www/`
 

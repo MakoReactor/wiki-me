@@ -28,7 +28,7 @@ Caso não tenha outro usuário administrador, terá que reinstalar o sistema, po
 
 Sugiro que siga os passos abaixo para criar uma mídia do Windows 10 para tentar recuperar seu sistema:
 
-**Obs.: **Faça um backup de seus arquivos em um dispositivo móvel pois pode ocorrer algo como interrupção da atualização, falta de energia, queda de sinal da internet, entre outros. Para criar a mídia do Windows 10 utilize um outro computador.
+**Obs.:** Faça um backup de seus arquivos em um dispositivo móvel pois pode ocorrer algo como interrupção da atualização, falta de energia, queda de sinal da internet, entre outros. Para criar a mídia do Windows 10 utilize um outro computador.
 
 * Acesse o link: [https://www.microsoft.com/pt-br/software-download/windows10](https://www.microsoft.com/pt-br/software-download/windows10)
 * Baixe a ferramenta de acordo com a arquitetura do Windows 10 instalado.
@@ -41,7 +41,7 @@ Sugiro que siga os passos abaixo para criar uma mídia do Windows 10 para tentar
 * Efetue o [boot com o Pen Drive.](http://windows.microsoft.com/pt-br/windows7/start-your-computer-from-a-windows-7-installation-disc-or-usb-flash-drive)
 * Quando aparecer a janela de instalação clique em **Reparar o computador**.
 * Clique em **Solução de Problemas**.
-* Clique em **Restaurar o PC mantendo os arquivos **ou **Remover tudo e reinstalar o Windows 10.**
+* Clique em **Restaurar o PC mantendo os arquivos** ou **Remover tudo e reinstalar o Windows 10.**
 
 ![Imagem](https://filestore.community.support.microsoft.com/api/images/88845047-3322-4028-acf5-06ef349314dd)
 
