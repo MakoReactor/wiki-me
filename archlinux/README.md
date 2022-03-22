@@ -1,6 +1,6 @@
 ---
 description: Tutoriais e Configurações.
-layout: editorial
+layout: landing
 ---
 
 # Linux
