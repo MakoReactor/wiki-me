@@ -8,8 +8,28 @@ Dentro da pasta descompactada tem o arquivo _Arch.exe_, dê dois cliques que ele
 
 Próximas etapas:
 
-* Configurar sudo
-* criar usuário padrão (para usar com o sudo)
+Configurando o sudo e usuário padrão:
+
+```
+echo "%wheel ALL=(ALL) ALL" > /etc/sudoers.d/wheel
+(setup sudoers file.)
+
+useradd -m -G wheel -s /bin/bash "seu-usuario-sem-aspas"
+(add user)
+
+passwd "seu-usuario-sem-aspas"
+(set default user password)
+
+exit
+```
+
+O comando abaixo deve ser executado no cmd (prompt de comando) do windows dentro da pasta que o Arch foi descompactado. Ele vai fazer com que o WSL inicie o seu Archlinux com o usuário que acabamos de criar.
+
+```
+Arch.exe config --default-user "seu-usuario-sem-aspas"
+    (setting to default user)
+```
+
 * atualizar as chaves do arch
 * atualizar o sistema
 * (continua)
