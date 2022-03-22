@@ -4,7 +4,7 @@ Tenha o WSL no Windows 10 ou posterior instalado e funcionando. Baixe o arquivo 
 
 O ArchLinux não tem uma versão instalável pela loja do Windows (pelo menos até o momento desse post)
 
-Dentro da pasta descompactada tem o arquivo _Arch.exe_, dê dois cliques que ele se auto registra no WSL abra novamente o windows terminal e acesse o Arch recem instalado.
+Dentro da pasta descompactada tem o arquivo _Arch.exe_, dê dois cliques que ele se auto registra no WSL abra novamente o Windows Terminal (se não intalou o windows terminal aproveite agora não vai se arrepender) e acesse o Arch recem instalado.
 
 Próximas etapas:
 
