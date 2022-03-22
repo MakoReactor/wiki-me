@@ -51,3 +51,4 @@ sudo pacman -Syu --noconfirm
 
 Agora é só esperar o sistema terminar de atualizar e pronto já está pronto para as configurações e instalações de programas.
 
+Fontes: [ArchWSL Documentation](https://wsldl-pg.github.io/ArchW-docs/How-to-Setup/)
