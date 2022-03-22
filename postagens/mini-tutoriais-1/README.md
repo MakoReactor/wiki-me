@@ -1,8 +1,5 @@
 ---
 description: Tutoriais rápidos e práticos.
-cover: >-
-  https://images.unsplash.com/photo-1643149007504-9c854855bcbb?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDU1ODU3MDU&ixlib=rb-1.2.1&q=85
-coverY: 0
 ---
 
 # Mini Tutoriais
