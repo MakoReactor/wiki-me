@@ -12,5 +12,5 @@ Próximas etapas:
 * criar usuário padrão (para usar com o sudo)
 * atualizar as chaves do arch
 * atualizar o sistema
-*
+* (continua)
 
