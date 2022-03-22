@@ -3,6 +3,7 @@ description: >-
   Espaço reservado para ser um lembrete do meu cérebro. Aqui você vai poder
   encontrar links, textos, tutoriais e/ou tudo que eu achar importante e que eu
   não queira esquecer.
+layout: editorial
 ---
 
 # Sobre esta página.
