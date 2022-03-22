@@ -23,7 +23,7 @@ passwd "seu-usuario-sem-aspas"
 exit
 ```
 
-O comando abaixo deve ser executado no cmd (prompt de comando) do windows dentro da pasta que o Arch foi descompactado. Ele vai fazer com que o WSL inicie o seu Archlinux com o usuário que acabamos de criar.
+O comando abaixo deve ser executado no cmd (prompt de comando) do windows dentro da pasta que o Arch foi descompactado. Ele vai fazer com que o WSL inicie o seu Archlinux com o usuário padrão que acabamos de criar.
 
 ```
 Arch.exe config --default-user "seu-usuario-sem-aspas"
