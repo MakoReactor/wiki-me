@@ -8,17 +8,14 @@ Dentro da pasta descompactada tem o arquivo _Arch.exe_, dê dois cliques que ele
 
 Próximas etapas:
 
-Configurando o sudo e usuário padrão:
+Configurando o sudo e usuário padrão como root um de cada vez.
 
 ```
 echo "%wheel ALL=(ALL) ALL" > /etc/sudoers.d/wheel
-(setup sudoers file.)
 
 useradd -m -G wheel -s /bin/bash "seu-usuario-sem-aspas"
-(add user)
 
 passwd "seu-usuario-sem-aspas"
-(set default user password)
 
 exit
 ```
