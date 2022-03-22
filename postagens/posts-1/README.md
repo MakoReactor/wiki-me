@@ -1,6 +1,5 @@
 ---
 description: Textos mais elaborados
-layout: editorial
 ---
 
 # Posts
