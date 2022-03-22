@@ -27,7 +27,23 @@ Arch.exe config --default-user "seu-usuario-sem-aspas"
     (setting to default user)
 ```
 
-* atualizar as chaves do arch
-* atualizar o sistema
-* (continua)
+Agora antes de atualizar o sistema é bom rodar os comandos abaixo para o arch atualizar as chaves de verificação dos repositórios.
+
+```
+sudo pacman-key --init
+
+sudo pacman-key --populate
+
+sudo pacman -Syy archlinux-keyring
+```
+
+Agora já podemos atualizar o sistema.
+
+A opção _**'--noconfirm'**_ serve para o Arch não ficar parando esperando a confirmação do usuário.
+
+```
+sudo pacman -Syu --noconfirm
+```
+
+Agora é só esperar o sistema terminar de atualizar e pronto já está pronto para as configurações e instalações de programas.
 
