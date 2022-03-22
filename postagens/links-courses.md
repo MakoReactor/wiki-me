@@ -6,10 +6,15 @@ description: >-
 
 # Links, Cursos e afins
 
-## Testar webcams online
+<details>
 
-* [pt.webcamtests.com](https://pt.webcamtests.com) - mostra parâmetos da webcam
-* [WebRTC ](https://webrtc.github.io/samples/src/content/getusermedia/gum/)- mostra a câmera
+<summary>Testar webcams online</summary>
+
+\- [https://pt.webcamtests.com/](https://pt.webcamtests.com) - mostra parâmetros da webcam
+
+[- https://webrtc.github.io/samples/src/content/getusermedia/gum/](https://webrtc.github.io/samples/src/content/getusermedia/gum/) - abre a câmera e testa.
+
+</details>
 
 ## Udacity nanodeagree Data Science
 
@@ -40,7 +45,7 @@ link -> [https://lucioeiras.medium.com/o-guia-completo-para-fazer-dual-boot-entr
 
 * Livro de estatística para Análise de Dados (atualizado em 21 junho 2020) - [https://www.ime.usp.br/\~jmsinger/MAE0217/cdados2020jun21.pdf](https://www.ime.usp.br/\~jmsinger/MAE0217/cdados2020jun21.pdf)
 * data science for everyone - [https://campus.datacamp.com/courses/data-science-for-everyone/](https://campus.datacamp.com/courses/data-science-for-everyone/)
-* **Data Science Cursos Edx - **[**Site da Edx**](https://www.edx.org/data-science-2020)** (começar algum curso destes)**
+* **Data Science Cursos Edx -** [**Site da Edx**](https://www.edx.org/data-science-2020) **(começar algum curso destes)**
 * Link para Nanodegrees e masterdegrees [ Nano e MasterDegrees](https://github.com/vitalysim/udacity-nanodegrees) on github.
 * Publicar sites com Hugo no github pages [Hugo e github pages](https://medium.com/responsive-br/publicando-seu-projeto-hugo-no-github-pages-e5a970d462ac)
 * criar sites no Hugo(primeiros passos): [https://tableless.com.br/primeiros-passos-com-hugo/](https://tableless.com.br/primeiros-passos-com-hugo/)
