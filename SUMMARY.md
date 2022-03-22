@@ -4,8 +4,8 @@
 
 ## Postagens
 
-* [ArchLinux](postagens/archlinux/README.md)
-  * [Instalar ArchLinux no WSL (Windows subsystem Linux)](postagens/archlinux/instalar-archlinux-no-wsl-windows-subsystem-linux.md)
+* [Linux](postagens/linux/README.md)
+  * [Instalar ArchLinux no WSL (Windows subsystem Linux)](postagens/linux/instalar-archlinux-no-wsl-windows-subsystem-linux.md)
 * [Posts](postagens/posts-1/README.md)
   * [Nem Sorte ou azar?](postagens/posts-1/sorte-ou-azar.md)
   * [Mudança. Porque não gostamos de mudar?](postagens/posts-1/mudanca.-porque-nao-gostamos-de-mudar.md)
