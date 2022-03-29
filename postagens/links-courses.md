@@ -6,6 +6,10 @@ description: >-
 
 # Links, Cursos e afins
 
+### Instruções SQL para manipulação de dados
+
+{% embed url="https://www.devmedia.com.br/10-instrucoes-sql-para-manipulacao-de-dados/4832" %}
+
 <details>
 
 <summary>Testar webcams online</summary>
@@ -46,24 +50,22 @@ link -> [https://lucioeiras.medium.com/o-guia-completo-para-fazer-dual-boot-entr
 * Livro de estatística para Análise de Dados (atualizado em 21 junho 2020) - [https://www.ime.usp.br/\~jmsinger/MAE0217/cdados2020jun21.pdf](https://www.ime.usp.br/\~jmsinger/MAE0217/cdados2020jun21.pdf)
 * data science for everyone - [https://campus.datacamp.com/courses/data-science-for-everyone/](https://campus.datacamp.com/courses/data-science-for-everyone/)
 * **Data Science Cursos Edx -** [**Site da Edx**](https://www.edx.org/data-science-2020) **(começar algum curso destes)**
-* Link para Nanodegrees e masterdegrees [ Nano e MasterDegrees](https://github.com/vitalysim/udacity-nanodegrees) on github.
+* Link para Nanodegrees e masterdegrees [Nano e MasterDegrees](https://github.com/vitalysim/udacity-nanodegrees) on github.
 * Publicar sites com Hugo no github pages [Hugo e github pages](https://medium.com/responsive-br/publicando-seu-projeto-hugo-no-github-pages-e5a970d462ac)
 * criar sites no Hugo(primeiros passos): [https://tableless.com.br/primeiros-passos-com-hugo/](https://tableless.com.br/primeiros-passos-com-hugo/)
 * Algoritmos com Python - [https://algoritmosempython.com.br/cursos/algoritmos-python/intro/](https://algoritmosempython.com.br/cursos/algoritmos-python/intro/)
 * Curso introdutório Python (abrange o básico de POO) [Introdução ao Python](https://algoritmosempython.com.br/cursos/programacao-python/intro/)
 * Curso completo - Ciência da Computação [https://github.com/ossu/computer-science](https://github.com/ossu/computer-science)
 * Tutorial Hugo GitHub pages [https://bwaycer.github.io/hugo\_tutorial.hugo/tutorials/github-pages-blog/](https://bwaycer.github.io/hugo\_tutorial.hugo/tutorials/github-pages-blog/)
-* Site TerminalRoot - [Geradores de sites estáticos ](https://terminalroot.com.br/2020/06/10-plataformas-para-blogs-de-codigo-aberto-para-desenvolvedores.html)
+* Site TerminalRoot - [Geradores de sites estáticos](https://terminalroot.com.br/2020/06/10-plataformas-para-blogs-de-codigo-aberto-para-desenvolvedores.html)
 * DIY[ How to robbering a bank (hack)](https://theanarchistlibrary.org/library/subcowmandante-marcos-hack-back).
 
-
-
-## Hugo - gerador de sites estáticos&#x20;
+## Hugo - gerador de sites estáticos
 
 * Aprimorar o uso do Hugo com livros, vídeo e tutoriais [External Resources](https://gohugo.io/getting-started/external-learning-resources/).
 * Livro Online básico sobre Hugo (primeiro capitulo) [https://livebook.manning.com/book/hugo-in-action/chapter-1/v-6/](https://livebook.manning.com/book/hugo-in-action/chapter-1/v-6/)
 
-#### &#x20;Próximo layou que vou testar
+#### Próximo layou que vou testar
 
 * [https://themes.gohugo.io//theme/hyde-hyde/](https://themes.gohugo.io/theme/hyde-hyde/)
 
@@ -77,7 +79,7 @@ link -> [https://lucioeiras.medium.com/o-guia-completo-para-fazer-dual-boot-entr
 
 ## Linux / Servers
 
-* &#x20;If you often have to use Linux server for various purpose, you may have a [look at cloud server providers that let you deploy Linux servers](https://click.mlsend.com/link/c/YT0xNTMzMTY4OTkwNTk0MDA4MDg1JmM9YzFoNCZlPTE5MjgmYj00MzIxMjU3NjQmZD12OXI2ejJ6.kaS7n2NMdl9CrmUjxSPKKeSLPOwKnwXotwkccZR9r34) of your choice in seconds.
+* If you often have to use Linux server for various purpose, you may have a [look at cloud server providers that let you deploy Linux servers](https://click.mlsend.com/link/c/YT0xNTMzMTY4OTkwNTk0MDA4MDg1JmM9YzFoNCZlPTE5MjgmYj00MzIxMjU3NjQmZD12OXI2ejJ6.kaS7n2NMdl9CrmUjxSPKKeSLPOwKnwXotwkccZR9r34) of your choice in seconds.
 * How-to wget - [usos básicos do comando wget no linux (em inglês)](https://itsfoss.com/download-files-from-linux-terminal/)
 * Iptables examples for SysAdmins - [https://www.cyberciti.biz/tips/linux-iptables-examples.html](https://www.cyberciti.biz/tips/linux-iptables-examples.html)
 
@@ -85,7 +87,7 @@ link -> [https://lucioeiras.medium.com/o-guia-completo-para-fazer-dual-boot-entr
 
 * [Building SaaS with Python and Django](https://www.youtube.com/playlist?list=PLFcKEo4b\_n1wQA6lKtSqCq1dTMq1c2Lmw). Playlist youtube Matt Layman
 * [Django Search Tutoria](https://learndjango.com/tutorials/django-search-tutorial)l. Prático, faça uma página com pesquisa em Django.
-* Conferência Django Youtube - [DiangoCon 2020 Europe ](https://www.youtube.com/playlist?list=PLY\_che\_OEsX3Bvg0X8cCgz2Xo7ONwuenz)
+* Conferência Django Youtube - [DiangoCon 2020 Europe](https://www.youtube.com/playlist?list=PLY\_che\_OEsX3Bvg0X8cCgz2Xo7ONwuenz)
 * Alguns artigos mais técnicos sobre Django - [Link](https://www.brennantymrak.com/articles.html)
 * Vários tutoriais de qualidade sobre Django - [https://learndjango.com/](https://learndjango.com)
 
@@ -96,6 +98,3 @@ link -> [https://lucioeiras.medium.com/o-guia-completo-para-fazer-dual-boot-entr
 ## Dominios grátis
 
 * Domínios grátis [Freenom](https://www.freenom.com/pt/index.html?lang=pt)
-
-
-
