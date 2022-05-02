@@ -8,7 +8,9 @@ description: >-
 
 ## Top 10 Free Python Programming Books
 
-[Link to page of top 10 free python books](https://www.java67.com/2017/05/top-7-free-python-programming-books-pdf-online-download.html).\
+[Link to page of top 10 free python books](https://www.java67.com/2017/05/top-7-free-python-programming-books-pdf-online-download.html).
+
+[5 Best Free Couruses do Learning Javascript.](https://www.java67.com/2018/04/top-5-free-javascript-courses-to-learn.html)\
 
 
 ## Instruções SQL para manipulação de dados
