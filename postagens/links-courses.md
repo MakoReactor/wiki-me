@@ -11,9 +11,11 @@ description: >-
 [Link to page of top 10 free python books](https://www.java67.com/2017/05/top-7-free-python-programming-books-pdf-online-download.html).\
 
 
-### Instruções SQL para manipulação de dados
+## Instruções SQL para manipulação de dados
 
 {% embed url="https://www.devmedia.com.br/10-instrucoes-sql-para-manipulacao-de-dados/4832" %}
+
+##
 
 <details>
 
