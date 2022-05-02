@@ -6,6 +6,8 @@
 
 * [Linux](archlinux/README.md)
   * [Instalar ArchLinux no WSL (Windows subsystem Linux)](archlinux/instalar-archlinux-no-wsl-windows-subsystem-linux.md)
+* [Programação](postagens/programacao/README.md)
+  * [Como ordenar um Dicionário em Python](postagens/programacao/como-ordenar-um-dicionario-em-python.md)
 * [Posts](postagens/posts-1/README.md)
   * [Nem Sorte ou azar?](postagens/posts-1/sorte-ou-azar.md)
   * [Mudança. Porque não gostamos de mudar?](postagens/posts-1/mudanca.-porque-nao-gostamos-de-mudar.md)
@@ -23,8 +25,6 @@
 * [Textos inacabados](postagens/textos-inacabados/README.md)
   * [Será que estamos aprendendo (estudando) o necessário para o futuro? Reflexão.](postagens/textos-inacabados/sera-que-estamos-aprendendo-estudando-o-necessario-para-o-futuro-reflexao..md)
   * [Ninguém gosta do equilíbrio.](postagens/textos-inacabados/ninguem-gosta-do-equilibrio..md)
-* [Programação](postagens/programacao/README.md)
-  * [Como ordenar um Dicionário em Python](postagens/programacao/como-ordenar-um-dicionario-em-python.md)
 
 ## About
 
