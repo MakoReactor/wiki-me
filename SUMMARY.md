@@ -23,12 +23,10 @@
 * [Textos inacabados](postagens/textos-inacabados/README.md)
   * [Será que estamos aprendendo (estudando) o necessário para o futuro? Reflexão.](postagens/textos-inacabados/sera-que-estamos-aprendendo-estudando-o-necessario-para-o-futuro-reflexao..md)
   * [Ninguém gosta do equilíbrio.](postagens/textos-inacabados/ninguem-gosta-do-equilibrio..md)
+* [Programação](postagens/programacao/README.md)
+  * [Como ordenar um Dicionário em Python](postagens/programacao/como-ordenar-um-dicionario-em-python.md)
 
 ## About
 
 * [About](about/about.md)
 * [Twitter](https://twitter.com/mako\_reactor)
-
-***
-
-* [Programação](programacao.md)
