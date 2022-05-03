@@ -15,6 +15,7 @@
   * [Vacina para covid-19 Pfizer. Por favor não fique tão contente assim.](postagens/posts-1/vacina-para-covid-19-pfizer.-por-favor-nao-fique-tao-contente-assim..md)
   * [Invasão Aos Computadores Do Ministério Da Saúde E Governo Do DF](postagens/posts-1/invasao-aos-computadores-do-ministerio-da-saude-e-governo-do-df.md)
 * [Mini Tutoriais](postagens/mini-tutoriais-1/README.md)
+  * [teste](postagens/mini-tutoriais-1/teste.md)
   * [Instalação correta do NodeJs e ReactJs](postagens/mini-tutoriais-1/instalacao-correta-do-nodejs-e-reactjs.md)
   * [Usando o comando grep](postagens/mini-tutoriais-1/usando-o-comando-grep-para-pesquisar-por-arquivos.md)
   * [Corrigindo a Hora do Linux-Windows quando estão em dual boot.](postagens/mini-tutoriais-1/corrigindo-a-hora-do-linux-windows-quando-estao-em-dual-boot..md)
