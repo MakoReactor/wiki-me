@@ -6,7 +6,7 @@
 
 * [Linux](archlinux/README.md)
   * [Instalar ArchLinux no WSL (Windows subsystem Linux)](archlinux/instalar-archlinux-no-wsl-windows-subsystem-linux.md)
-  * [Instalação asdf - Gerenciador de versões de linguagens de programação](postagens/archlinux/instalacao-asdf-gerenciador-de-versoes-de-linguagens-de-programacao.md)
+  * [asdf - Gerenciador de versões de linguagens de programação](postagens/archlinux/asdf-gerenciador-de-versoes-de-linguagens-de-programacao.md)
 * [Programação](postagens/programacao/README.md)
   * [Como ordenar um Dicionário em Python](postagens/programacao/como-ordenar-um-dicionario-em-python.md)
 * [Posts](postagens/posts-1/README.md)

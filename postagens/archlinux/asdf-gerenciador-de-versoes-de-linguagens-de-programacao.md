@@ -2,7 +2,9 @@
 description: Procedimento feito no ArchLinux.
 ---
 
-# Instalação asdf - Gerenciador de versões de linguagens de programação
+# asdf - Gerenciador de versões de linguagens de programação
+
+## Instalação
 
 Primeiro instalamos o yay, que é um gerenciador de pacotes da base AUR do archlinux.
 
@@ -49,7 +51,7 @@ Após o procedimento acima vamos à instalação do asdf.
 yay -S asdf-vm
 ```
 
-O yay vai baixar, compiar e instalar o programa, pode ser necessário alguma confirmação do usuário ou pedido de senha e pode demorar mais ou menos dependendo da eficiência do computador.
+O yay vai baixar, compilar e instalar o programa, pode ser necessário alguma confirmação do usuário ou pedido de senha e pode demorar mais ou menos dependendo da eficiência do computador.
 
 Agora para carregar o **asdf** toda vez que o terminal for aberto faça o seguinte, usando o seu editor de preferência. Aqui eu vou estou usando o **zsh**, mas pode ser feito no **bash** padrão ou qualquer outro terminal que você tenha instalado.
 
