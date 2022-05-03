@@ -117,3 +117,5 @@ asdf plugin list all
 # Listar somente os plugins instalados.
 asdf plugin list
 ```
+
+#### \[ fontes ] ([https://blog.accurate.com.br/gerenciamento-asdf/](https://blog.accurate.com.br/gerenciamento-asdf/)) ([https://cloudolife.com/2020/10/10/Programming-Language/Python/Installation/Use-asdf-python-plugin-to-install-multiple-Python-versions/](https://cloudolife.com/2020/10/10/Programming-Language/Python/Installation/Use-asdf-python-plugin-to-install-multiple-Python-versions/))
