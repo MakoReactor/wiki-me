@@ -90,7 +90,7 @@ asdf install python 3.9.12
 # Usar uma versão local que só vai funcionar dentro da pasta que foi iniciada.
 asdf local python 3.9.12
 
-# Configurar uma versão do python para ser Global.
+# Configurar uma versão do python para ser a versão Global.
 asddf global python 3.10.4
 ```
 
@@ -108,7 +108,7 @@ O asdf pode gerenciar várias linguagens de programação:
 * R
 * e muitas outras.
 
-Para a listar os plugins instaláveis e os instalado digite:
+Para a listar os plugins instaláveis e os plugins instalados digite:
 
 ```
 # Listar todas linguagens passiveis de serem instaladas.
