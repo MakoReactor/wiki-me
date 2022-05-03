@@ -8,14 +8,14 @@ description: Procedimento feito no ArchLinux.
 
 [**asdf-vm**](https://asdf-vm.com) é uma ferramenta de linha de comando para gerenciar versões de execução de múltiplas linguagens por projeto. É similar a outras ferramentas de gerenciamento por linha de comando, como [RVM](https://rvm.io) para Ruby e [nvm](https://github.com/nvm-sh/nvm) para Node.js, com a vantagem de um arquitetura de plugin extensível para lidar com múltiplas linguagens.
 
-## Instalação
+## Preparando o terreno para instalação.
 
-Primeiro instalamos o yay, que é um gerenciador de pacotes da base AUR do archlinux.
+Primeiro instalaremos o yay, que é um gerenciador de pacotes da base AUR do archlinux.
 
 Mas antes as dependências.
 
 ```
-sudo packman -S --neede base-devel git
+sudo packman -S --needed base-devel git
 ```
 
 Agora clonamos o projeto no github.
