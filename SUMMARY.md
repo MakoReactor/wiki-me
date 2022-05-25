@@ -9,6 +9,7 @@
   * [asdf - Gerenciador de versões de linguagens de programação](postagens/archlinux/asdf-gerenciador-de-versoes-de-linguagens-de-programacao.md)
 * [Programação](postagens/programacao/README.md)
   * [Como ordenar um Dicionário em Python](postagens/programacao/como-ordenar-um-dicionario-em-python.md)
+  * [Arroz com Python o poder da progressão geométrica](postagens/programacao/arroz-com-python-o-poder-da-progressao-geometrica.md)
 * [Posts](postagens/posts-1/README.md)
   * [Nem Sorte ou azar?](postagens/posts-1/sorte-ou-azar.md)
   * [Mudança. Porque não gostamos de mudar?](postagens/posts-1/mudanca.-porque-nao-gostamos-de-mudar.md)
