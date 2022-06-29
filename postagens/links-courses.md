@@ -6,6 +6,10 @@ description: >-
 
 # Links, Cursos e afins
 
+## Como transformar o cartão SD em memória interna
+
+{% embed url="https://tecnoblog.net/responde/como-transformar-cartao-sd-em-memoria-interna/" %}
+
 ## Top 10 Free Python Programming Books
 
 [Link to page of top 10 free python books](https://www.java67.com/2017/05/top-7-free-python-programming-books-pdf-online-download.html).
