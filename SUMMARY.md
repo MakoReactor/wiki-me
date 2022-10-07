@@ -11,6 +11,7 @@
 * [Programação](postagens/programacao/README.md)
   * [Como ordenar um Dicionário em Python](postagens/programacao/como-ordenar-um-dicionario-em-python.md)
   * [Arroz com Python o poder da progressão geométrica](postagens/programacao/arroz-com-python-o-poder-da-progressao-geometrica.md)
+  * [Trecho de código lembrete](postagens/programacao/trecho-de-codigo-lembrete.md)
 * [Mini Tutoriais](postagens/mini-tutoriais-1/README.md)
   * [teste](postagens/mini-tutoriais-1/teste.md)
   * [Instalação correta do NodeJs e ReactJs](postagens/mini-tutoriais-1/instalacao-correta-do-nodejs-e-reactjs.md)
