@@ -8,13 +8,19 @@ description: Procedimento feito no ArchLinux.
 
 [**asdf-vm**](https://asdf-vm.com) é uma ferramenta de linha de comando para gerenciar versões de execução de múltiplas linguagens por projeto. É similar a outras ferramentas de gerenciamento por linha de comando, como [RVM](https://rvm.io) para Ruby e [nvm](https://github.com/nvm-sh/nvm) para Node.js, com a vantagem de um arquitetura de plugin extensível para lidar com múltiplas linguagens.
 
+O asdf-vm bem interessante e fácil de usar, vamos a sua instalação.
+
 ## Preparando o terreno para instalação.
 
-Primeiro instalaremos o yay, que é um gerenciador de pacotes da base AUR do archlinux.
+O asdf-vm não está nos repositórios oficiais do archlinux, então teremos que recorrer ao AUR.
 
-Mas antes as dependências.
+Para isso precisamos instalar um gerenciador de pacotes que manipule arquivos do AUR que nesse caso será o yay.
 
-```
+Escolhi o yay por ter as opções de comando muito parecidas com o pacman.
+
+Primeiro temos que instalar as dependẽncias para podermos compilar os programas.
+
+```shell
 sudo packman -S --needed base-devel git
 ```
 
@@ -22,26 +28,26 @@ Agora clonamos o projeto no github.
 
 Como vamos usar só por esse momento fazemos isso na pasta **/tmp**.
 
-```
+```shell
 cd /tmp
 git clone https://aur.archlinux.org/yay-git.git
 ```
 
 Depois entramos no diretório.
 
-```
+```shell
 cd yay-git
 ```
 
 E então compilamos o programa.
 
-```
+```shell
 makepkg -si
 ```
 
 Depois de compilado podemos testar com o comando de atualização do sistema.
 
-```
+```shell
 yay -Syu
 ```
 
@@ -51,7 +57,7 @@ yay -Syu
 
 Após o procedimento acima vamos à instalação do asdf.
 
-```
+```shell
 yay -S asdf-vm
 ```
 
@@ -59,7 +65,7 @@ O yay vai baixar, compilar e instalar o programa, pode ser necessário alguma co
 
 Agora para carregar o **asdf** toda vez que o terminal for aberto faça o seguinte, usando o seu editor de preferência. Aqui eu vou estou usando o **zsh**, mas pode ser feito no **bash** padrão ou qualquer outro terminal que você tenha instalado.
 
-```
+```shell
 # no meu caso eu uso o nvim
 nvim ~/.zshrc
 
@@ -74,7 +80,7 @@ Agora bastar salvar o arquivo e fechar o terminal. Quando abrir o terminal novam
 
 ### Comandos básicos do asdf.
 
-```
+```shell
 # Adicionar plugins para a linguagem, usei pythyon mas pode ser outra.
 asdf plugin add python
 
@@ -110,7 +116,7 @@ O asdf pode gerenciar várias linguagens de programação:
 
 Para a listar os plugins instaláveis e os plugins instalados digite:
 
-```
+```shell
 # Listar todas linguagens passiveis de serem instaladas.
 asdf plugin list all
 
