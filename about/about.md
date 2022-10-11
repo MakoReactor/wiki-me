@@ -22,7 +22,7 @@ description: >-
 #### Contato:
 
 * douglas.santosb@gmail.com
-* [https://twitter.com/mako_reactor](twitter)
+* [twitter](https://twitter.com/mako_reactor)
 
 #### Outros lugares que escrevo:
 
