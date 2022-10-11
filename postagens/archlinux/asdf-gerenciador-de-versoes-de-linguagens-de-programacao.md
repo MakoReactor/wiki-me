@@ -8,7 +8,7 @@ description: Procedimento feito no ArchLinux.
 
 [**asdf-vm**](https://asdf-vm.com) é uma ferramenta de linha de comando para gerenciar versões de execução de múltiplas linguagens por projeto. É similar a outras ferramentas de gerenciamento por linha de comando, como [RVM](https://rvm.io) para Ruby e [nvm](https://github.com/nvm-sh/nvm) para Node.js, com a vantagem de um arquitetura de plugin extensível para lidar com múltiplas linguagens.
 
-O asdf-vm bem interessante e fácil de usar, vamos a sua instalação.
+O asdf-vm é bem interessante e fácil de usar, vamos a sua instalação.
 
 ## Preparando o terreno para instalação.
 
