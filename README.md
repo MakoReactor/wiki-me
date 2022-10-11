@@ -7,9 +7,9 @@ description: >-
 
 # Sobre esta página.
 
-Espaço reservado para documentar o coisas úteis do meu dia a dia.
+Espaço reservado para documentar as coisas úteis do meu dia a dia.
 
-Este espaço estará sempre em construção, portanto alguns textos tutoriais e afins podem estar inacabados, mas tudo bem, em algum momento vou retomar ou não o assunto.
+Este espaço estará sempre em construção, portanto alguns textos tutoriais e afins podem estar inacabados, mas tudo bem, em algum momento posso retomar ou não o assunto.
 
 
 
