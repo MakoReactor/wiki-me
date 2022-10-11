@@ -1,8 +1,7 @@
 ---
 description: >-
   Wiki dedicada a ser meu caderno de anotações, lembretes e coisas que quero
-  guardar e compartilhar. Seguindo nesse sentindo, ela vai ser o meu segundo
-  cérebro, ou melhor o backup do meu cérebro.
+  guardar e compartilhar. Seguindo nesse sentido, esse espaço servira como o backup do meu cérebro.
 ---
 
 # About
@@ -23,6 +22,7 @@ description: >-
 #### Contato:
 
 * douglas.santosb@gmail.com
+* [https://twitter.com/mako_reactor](twitter)
 
 #### Outros lugares que escrevo:
 
