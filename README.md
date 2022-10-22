@@ -1,6 +1,6 @@
 ---
 description: >-
-  Nesta wiki você vai poder encontrar links, textos, tutoriais e/ou tudo que eu achar importante e que eu não queira esquecer.
+  Nesta wiki você vai poder encontrar links, textos, tutoriais e tudo que eu achar importante e que eu não queira esquecer.
 ---
 
 # Sobre esta página.
