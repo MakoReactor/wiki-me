@@ -1,7 +1,8 @@
 ---
 description: >-
   Wiki dedicada a ser meu caderno de anotações, lembretes e coisas que quero
-  guardar e compartilhar. Seguindo nesse sentido, esse espaço servira como o backup do meu cérebro.
+  guardar e compartilhar. Seguindo nesse sentido, esse espaço servira como o
+  backup do meu cérebro.
 ---
 
 # About
@@ -22,8 +23,8 @@ description: >-
 #### Contato:
 
 * douglas.santosb@gmail.com
-* [twitter](https://twitter.com/mako_reactor)
+* [twitter](https://twitter.com/mako\_reactor) (xwitter)😂
 
 #### Outros lugares que escrevo:
 
-* [https://dougscafe.netlify.app/](https://dougscafe.netlify.app)&#x20;
+* [https://dougscafe.netlify.app/](https://dougscafe.netlify.app)
