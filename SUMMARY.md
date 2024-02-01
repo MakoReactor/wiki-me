@@ -13,7 +13,6 @@
   * [Arroz com Python o poder da progressão geométrica](postagens/programacao/arroz-com-python-o-poder-da-progressao-geometrica.md)
   * [Trecho de código lembrete](postagens/programacao/trecho-de-codigo-lembrete.md)
 * [Mini Tutoriais](postagens/mini-tutoriais-1/README.md)
-  * [teste](postagens/mini-tutoriais-1/teste.md)
   * [Instalação correta do NodeJs e ReactJs](postagens/mini-tutoriais-1/instalacao-correta-do-nodejs-e-reactjs.md)
   * [Usando o comando grep](postagens/mini-tutoriais-1/usando-o-comando-grep-para-pesquisar-por-arquivos.md)
   * [Corrigindo a Hora do Linux-Windows quando estão em dual boot.](postagens/mini-tutoriais-1/corrigindo-a-hora-do-linux-windows-quando-estao-em-dual-boot..md)

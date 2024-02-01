@@ -3,8 +3,6 @@
 Shell script para decodificar video em mp3\
 e youtube dl baixando direto em mp3 playlists
 
-
-
 ```bash
 for FILE in *.webm; do
     echo -e "Processing video '\e[32m$FILE\e[0m'";
@@ -13,5 +11,4 @@ done;
 
 # baixar apenas o audio em mp3 de uma lista no youtube.
 youtube-dl --extract-audio --audio-format mp3 -o "%(title)s.%(ext)s" https://www.youtube.com/playlist?list=PLiSzxQJ4pCKzj_rCvdJ5xRIzq02ROG5bh
-
 ```
