@@ -1,22 +1,22 @@
 # Ativar Administrador windows 10
 
-Seguir os passos abaixo:
-
-1. &#x20;Na Área de Trabalho pressione simultaneamente as teclas Windows + R para abrir o Executar;
-2. &#x20;No Executar digite control userpasswords2 e clique em OK;
-3. &#x20;Na aba Usuários selecione seu usuário e clique em Propriedades;
-4. &#x20;Na aba Associação de Grupo marque a opção Administrador, clique em Aplicar e em OK;
-5. &#x20;Reinicie o computador para validar a nova configuração.
-
 Obs. Caso não tenha privilégios, só poderá executar essa configuração através de outra conta administrador.
 
-Tente ativar a conta administrador pelo Prompt de Comando seguindo os passos abaixo:&#x20;
+Tente ativar a conta administrador pelo Prompt de Comando seguindo os passos abaixo:
 
 1\. Pressione a combinação de teclas **Windows + x** e selecione **prompt de comando (admin).**
 
 2\. No Prompt de comando digite o comando que está abaixo:
 
+```
 net user Administrador /active:yes
+```
+
+1. Na Área de Trabalho pressione simultaneamente as teclas Windows + R para abrir o Executar;
+2. No Executar digite control userpasswords2 e clique em OK;
+3. Na aba Usuários selecione seu usuário e clique em Propriedades;
+4. Na aba Associação de Grupo marque a opção Administrador, clique em Aplicar e em OK;
+5. Reinicie o computador para validar a nova configuração.
 
 Para verificar se o comando foi executado com sucesso, clique no menu “Iniciar”, digite no campo de pesquisa “Contas de Usuário” e clique no mesmo, logo ao abrir a opção clique em “Gerenciar Contas”, verifique se a conta “Administrador” é apresentada.
 
@@ -24,7 +24,7 @@ Faça o “Logoff” no computador e acesse a nova conta.
 
 Caso não tenha outro usuário administrador, terá que reinstalar o sistema, pois todo o procedimento ou acesso, apresentará a mensagem pedindo permissão de administrador, impossibilitando qualquer tipo de alteração, instalação, entre outros processos.
 
-&#x20;**Recuperação através da mídia**
+**Recuperação através da mídia**
 
 Sugiro que siga os passos abaixo para criar uma mídia do Windows 10 para tentar recuperar seu sistema:
 
