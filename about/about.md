@@ -28,3 +28,4 @@ description: >-
 #### Outros lugares que escrevo:
 
 * [https://dougscafe.netlify.app/](https://dougscafe.netlify.app)
+* [https://oseomessias.wordpress.com/](https://oseomessias.wordpress.com/) (blog antigo)
