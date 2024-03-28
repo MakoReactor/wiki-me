@@ -14,28 +14,32 @@ Para esse procedimento dar certo é necessário que o Grub esteja instalado.
 
 Eu usei o neovim como editor de texto, mas você pode usar o seu editor de texto preferido.
 
+Abra o arquivo com a linha de comando a seguir:
+
 ```bash
 sudo nvim /etc/default/grub
 ```
 
-Procurar a Linha:
+Procure a Linha:
 
 ```bash
 GRUB_CMDLINE_LINUX=""
 ```
 
-E modificar para ficar dessa forma:
+E modifique essa linha para ficar igual abaixo.
 
 ```bash
 GRUB_CMDLINE_LINUX="net.ifnames=0 biosdevname=0"
 ```
 
-Depois salvar e fechar o arquivo e então digite o comando:
+Salve o arquivo e feche o mesmo.
+
+Agora digite o seguinte comando para atualizar o Grub com as novas regras.
 
 ```bash
 sudo update-grub
 ```
 
-Agora basta reniciar o computador.
+Reinicie o seu computador.
 
 Se tudo deu certo agora as placas de rede do seu sistema aparecerão com os nomes mais amigáveis como eth0, eth1 e wlan0.

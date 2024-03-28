@@ -8,7 +8,7 @@
   * [Instalar ArchLinux no WSL (Windows subsystem Linux)](archlinux/instalar-archlinux-no-wsl-windows-subsystem-linux.md)
   * [asdf - Gerenciador de versões de linguagens de programação](postagens/archlinux/asdf-gerenciador-de-versoes-de-linguagens-de-programacao.md)
   * [Instalar docker no archlinux (manjaro)](postagens/archlinux/instalar-docker-no-archlinux-manjaro.md)
-  * [Nomes amigáveis para placas de rede no Linux.](postagens/archlinux/nomes-amigaveis-para-placas-de-rede-no-linux..md)
+  * [Nomes amigáveis para placas de rede no Linux.](postagens/archlinux/nomes-amigaveis-para-as-placas-de-rede-do-linux.md)
 * [Programação](postagens/programacao/README.md)
   * [Como ordenar um Dicionário em Python](postagens/programacao/como-ordenar-um-dicionario-em-python.md)
   * [Arroz com Python o poder da progressão geométrica](postagens/programacao/arroz-com-python-o-poder-da-progressao-geometrica.md)
