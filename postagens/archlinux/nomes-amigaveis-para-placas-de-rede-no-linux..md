@@ -4,7 +4,7 @@ description: >-
   eth0 e wlan0.
 ---
 
-# Nomes amigáveis para as placas de rede do Linux
+# Nomes amigáveis para placas de rede no Linux.
 
 Essa abordagem visa mudar os nomes das placas de rede no linux, pois muitos sistemas agora trazem nomes estranhos diferentes daqueles que estávamos acostumados.
 
@@ -12,7 +12,7 @@ Esse procedimento foi feito no Manjaro Linux, mas creio que possa ser feito em o
 
 Para esse procedimento dar certo é necessário que o Grub esteja instalado.
 
-Eu usei o nvim, mas pode ser usado o editor da sua preferência.
+Eu usei o neovim como editor de texto, mas você pode usar o seu editor de texto preferido.
 
 ```bash
 sudo nvim /etc/default/grub
